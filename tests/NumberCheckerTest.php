@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-require_once __DIR__ . '/../src/exercici1.php';
+require_once __DIR__ . '/../src/NumberChecker.php';
 
 class NumberCheckerTest extends TestCase
 {

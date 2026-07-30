@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-require_once __DIR__ . '/../src/exercici2.php';
+require_once __DIR__ . '/../src/Speedsensor.php';
 
 class SpeedSensorTest extends TestCase
 {
